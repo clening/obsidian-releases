@@ -18436,5 +18436,13 @@
     "author": "Lauloque",
     "description": "Format selected text into HTML <kbd> tags for representing keyboard keys and mouse inputs.",
     "repo": "Lauloque/Keyboard-Formatter"
+  },
+  {
+    "id": "ai-mindmap-generator",
+    "name": "AI Mindmap Generator",
+    "author": "Carey Lening",
+    "description": "Generate intelligent mindmaps from your notes using AI analysis. Incorporates existing tags and creates multi-dimensional knowledge visualizations.",
+    "repo": "clening/obsidian-ai-mindmeld"
   }
+  
 ]
